@@ -1,5 +1,2 @@
 Hi This is my first File
 Welcome to Git
-Second Line Enteredsecond line editedThird Line EnteredThank you have a Great Day
-
-[AHope YOur Doing Great
