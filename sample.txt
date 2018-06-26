@@ -1,7 +1,2 @@
 Hi This is my first File
 Welcome to Git
-hgfg
-gghg
-gsgsd,gkghd4
-gsdgdg,
-gbsbgg
